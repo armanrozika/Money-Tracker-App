@@ -3,9 +3,9 @@ webpackJsonp([1],{"6HnQ":function(t,e){},NHnr:function(t,e,a){"use strict";Objec
 
 
 
-if("serviceWorker" in navigator){
-    navigator.serviceWorker.register('sw.js')
-    .then(function(){
-        console.log('registered')
-    })
-}
+// if("serviceWorker" in navigator){
+//     navigator.serviceWorker.register('sw.js')
+//     .then(function(){
+//         console.log('registered')
+//     })
+// }
