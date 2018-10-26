@@ -1,16 +1,16 @@
 {
-    "name": "M-Track, A money tracker",
-    "short_name": "M-Track",
-    "start_url": ".",
-    "display": "standalone",
-    "orientation": "portrait",
-    "background_color": "#ccc",
-    "theme_color": "#26a6e2",
-    "icons": [
-        {
-            "src": "static/mtrack.png",
-            "sizes": "144x144",
-            "type": "image/png"
-        }
-    ]
+  "name": "A Money Tracker App",
+  "short_name": "M-Track",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ccc",
+  "theme_color": "#5FAAE5",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
 }
